@@ -13,11 +13,8 @@
 {               Shift+Ctrl+Alt+X     Cut and append to clipboard            }
 {                                                                           }
 {             This is a partial keybinding, so the other keys are not       }
-<<<<<<< HEAD
 {             affected at all.                                              }
-=======
 {             affected.                                                     }
->>>>>>> 2c1551051fc3fdbcf8bba02b98f531eea71a9a08
 {                                                                           }
 { Language:   Delphi 2007 and above                                         }
 { Author:     Rudy Velthuis                                                 }
