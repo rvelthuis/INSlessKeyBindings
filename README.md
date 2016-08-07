@@ -14,6 +14,8 @@ Changes the following keybindings and menu commands:
 
   Additionally, introduces the following keybindings:
   
+| Key combination                                              | Action                       |
+| ------------------------------------------------------------ | ---------------------------- |
 | <kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>C</kbd> | Copy and append to clipboard |
 | <kbd>Shift</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>X</kbd> | Cut and append to clipboard  |
 
