@@ -2,7 +2,7 @@
 
 ##INS-less partial keybinding for RAD Studio
 
-Key bindings for Delphi on a computer with a keyboard that has no or no easyly accessible INS key. 
+Key bindings for Delphi on a computer with a keyboard that has no or no easily accessible INS key. 
 
 Changes the following keybindings and menu commands:
 
