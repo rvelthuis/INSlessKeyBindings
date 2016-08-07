@@ -8,9 +8,9 @@ Key bindings for RAD-Studio who want to use the Classic (Wordstar-like) key bind
 
   | Key combination              | Menu item   |
   | ---------------------------- | ----------- |
-  | <kbd>Ctrl</kbd>+<kbd>C</kbd> | Edit->Copy  |
-  | <kbd>Ctrl</kbd>+<kbd>V</kbd> | Edit->Paste |
-  | <kbd>Ctrl</kbd>+<kbd>X</kbd> | Edit->Cut   |
+  | <kbd>Ctrl</kbd>+<kbd>C</kbd> | Edit\|Copy  |
+  | <kbd>Ctrl</kbd>+<kbd>V</kbd> | Edit\|Paste |
+  | <kbd>Ctrl</kbd>+<kbd>X</kbd> | Edit\|Cut   |
 
 * Additionally, introduces the following new actions:
   
