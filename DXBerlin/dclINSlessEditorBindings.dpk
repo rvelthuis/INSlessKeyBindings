@@ -13,7 +13,7 @@
 {               Shift+Ctrl+Alt+X     Cut and append to clipboard            }
 {                                                                           }
 {             This is a partial keybinding, so the other keys are not       }
-{             affected at all.                                                     }
+{             affected.                                                     }
 {                                                                           }
 { Language:   Delphi 2007 and above                                         }
 { Author:     Rudy Velthuis                                                 }
