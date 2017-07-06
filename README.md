@@ -1,6 +1,6 @@
-#INSlessKeyBindings
+# INSlessKeyBindings
 
-##Partial keybinding for RAD Studio
+## Partial keybinding for RAD Studio
 
 Key bindings for RAD-Studio who want to use the Classic (Wordstar-like) key bindings on a computer with a keyboard that has no or no easily accessible INS key. 
 
