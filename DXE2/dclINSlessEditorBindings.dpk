@@ -1,5 +1,53 @@
 {                                                                           }
-{ File:       INSlessEditorBindings.dpk                                     }{ Function:   Key bindings for Delphi on a computer with a keyboard that    }{             does not have an INS key.                                     }{                                                                           }{             Changes the following keybindings and menu commands:          }{               Edit|Copy            Ctrl+C                                 }{               Edit|Paste           Ctrl+V                                 }{               Edit|Cut             Ctrl+X                                 }{                                                                           }{             Additionally, introduces the following keybindings:           }{               Shift+Ctrl+Alt+C     Copy and append to clipboard           }{               Shift+Ctrl+Alt+X     Cut and append to clipboard            }{                                                                           }{             This is a partial keybinding, so the other keys are not       }{             affected.                                                     }{                                                                           }{ Language:   Delphi 2007 and above                                         }{ Author:     Rudy Velthuis                                                 }{ Copyright:  (c) 2012 Rudy Velthuis                                        }{ Version:    1.0                                                           }{                                                                           }{ Disclaimer: Redistribution and use in source and binary forms, with or    }{             without modification, are permitted provided that the         }{             following conditions are met:                                 }{                                                                           }{             * Redistributions of source code must retain the above        }{               copyright notice, this list of conditions and the following }{               disclaimer.                                                 }{             * Redistributions in binary form must reproduce the above     }{               copyright notice, this list of conditions and the following }{               disclaimer in the documentation and/or other materials      }{               provided with the distribution.                             }{                                                                           }{             THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER "AS IS"     }{             AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT     }{             LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND     }{             FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO        }{             EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE     }{             FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY,     }{             OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,      }{             PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,     }{             DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED    }{             AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT   }{             LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)        }{             ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF   }{             ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.                    }{                                                                           }package dclINSlessEditorBindings;
+{ File:       INSlessEditorBindings.dpk                                     }
+{ Function:   Key bindings for Delphi on a computer with a keyboard that    }
+{             does not have an INS key.                                     }
+{                                                                           }
+{             Changes the following keybindings and menu commands:          }
+{               Edit|Copy            Ctrl+C                                 }
+{               Edit|Paste           Ctrl+V                                 }
+{               Edit|Cut             Ctrl+X                                 }
+{                                                                           }
+{             Additionally, introduces the following keybindings:           }
+{               Shift+Ctrl+Alt+C     Copy and append to clipboard           }
+{               Shift+Ctrl+Alt+X     Cut and append to clipboard            }
+{                                                                           }
+{             This is a partial keybinding, so the other keys are not       }
+{             affected.                                                     }
+{                                                                           }
+{ Language:   Delphi XE2                                                    }
+{ Author:     Rudy Velthuis                                                 }
+{ Copyright:  (c) 2012 Rudy Velthuis                                        }
+{ Version:    1.0                                                           }
+{                                                                           }
+{ Disclaimer: Redistribution and use in source and binary forms, with or    }
+{             without modification, are permitted provided that the         }
+{             following conditions are met:                                 }
+{                                                                           }
+{             * Redistributions of source code must retain the above        }
+{               copyright notice, this list of conditions and the following }
+{               disclaimer.                                                 }
+{             * Redistributions in binary form must reproduce the above     }
+{               copyright notice, this list of conditions and the following }
+{               disclaimer in the documentation and/or other materials      }
+{               provided with the distribution.                             }
+{                                                                           }
+{             THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER "AS IS"     }
+{             AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT     }
+{             LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND     }
+{             FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO        }
+{             EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE     }
+{             FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY,     }
+{             OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,      }
+{             PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,     }
+{             DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED    }
+{             AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT   }
+{             LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)        }
+{             ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF   }
+{             ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.                    }
+{                                                                           }
+
+package dclINSlessEditorBindings;
 
 {$R *.res}
 {$ALIGN 8}
