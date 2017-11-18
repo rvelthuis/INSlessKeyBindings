@@ -1,0 +1,8 @@
+**/*.dcu
+**/__history/**
+**/*.dproj.local
+**/*.identcache
+**/*.dsk
+**/*.stat
+**/*.~*
+**/*.zip
